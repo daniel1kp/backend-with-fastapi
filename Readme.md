@@ -25,3 +25,17 @@
 - [ ] Designing the APIs
 - [ ] Creating data structures
 - [ ] Creating the APIs
+
+## Resources
+
+- [FastAPI Docs](https://fastapi.tiangolo.com/tutorial/)
+- [SQLModel ORM Docs](https://sqlmodel.tiangolo.com/)
+
+### Theory
+
+- [REST API 101](https://www.restapitutorial.com/)
+- [HTTP 101](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+### Final Code
+
+https://github.com/thelearningdev/backend-with-fastapi/tree/candy-store-final
